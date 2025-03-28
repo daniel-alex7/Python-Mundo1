@@ -1,5 +1,5 @@
-lar = float(input('Digite a largura da parede: '))
-alt = float(input('Digite o valor da altura da parede: '))
+lar = float(input('\033[31m Digite a largura da parede:  \033[m' ))
+alt = float(input('\033[31m Digite o valor da altura da parede:  \033[m'))
 
 area = lar * alt
 

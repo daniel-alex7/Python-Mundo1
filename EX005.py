@@ -1,4 +1,4 @@
-n1 = int(input('Digite um número inteiro: '))
+n1 = int(input('\033[36m Digite um número inteiro: \033[m '))
 
 
 

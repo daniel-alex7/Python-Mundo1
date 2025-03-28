@@ -1,4 +1,4 @@
-saldo = float(input('Digite o valor que está na sua carteira atualmente: '))
+saldo = float(input('\033[35m Digite o valor que está na sua carteira atualmente: \033[m'))
 
 dolar = saldo/5.80
 
